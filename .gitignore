@@ -2,3 +2,7 @@
 .DS_Store
 Thumbs.db
 *.log
+
+# Chinese-named local files excluded from the repo
+使用说明.txt
+打开离线版.bat
